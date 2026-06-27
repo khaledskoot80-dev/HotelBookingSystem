@@ -1,0 +1,10 @@
+hotel\hotelbooking\Booking.class
+hotel\hotelbooking\Customer.class
+hotel\hotelbooking\DatabaseConnection.class
+hotel\hotelbooking\Employee.class
+hotel\hotelbooking\DBConnection.class
+hotel\hotelbooking\Room.class
+hotel\hotelbooking\Hotelbooking.class
+hotel\hotelbooking\Login.class
+hotel\hotelbooking\Person.class
+hotel\hotelbooking\Bookable.class
